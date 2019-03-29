@@ -1,3 +1,5 @@
 功能2 bug2
 测试追加
 --amend
+
+新增bug2，测试rebase -i
