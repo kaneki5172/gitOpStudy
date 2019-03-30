@@ -3,3 +3,5 @@
 --amend
 
 新增bug2，测试rebase -i
+测试追加
+--amend
